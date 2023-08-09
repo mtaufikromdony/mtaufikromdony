@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Taufik</h1>
-<h3 align="center">A passionate SRE and Devops from Indonesia</h3>
+<h3 align="center">Cloud & Opensource enthusiast from Indonesia</h3>
 
 - 🔭 I’m currently working on [Hijra Group](https://alamisharia.co.id)
 
