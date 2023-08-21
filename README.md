@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Taufik</h1>
 <h3 align="center">Cloud & Opensource enthusiast from Indonesia</h3>
 
-- 🔭 I’m currently working on [Hijra Group](https://alamisharia.co.id)
-
 - 🌱 I’m currently learning **Kubernetes, Prometheus, Golang and more**
 
 - 💬 Ask me about **Networking, GCP, Kubernetes, Devops and more**
